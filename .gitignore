@@ -1,0 +1,3 @@
+node_modules/
+tests/dsh-native-memory-fixture/
+*.tgz

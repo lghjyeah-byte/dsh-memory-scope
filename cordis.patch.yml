@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-memory-scope
+      name: dsh-memory-scope
+      config: {}
